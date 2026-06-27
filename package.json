@@ -1,0 +1,16 @@
+{
+  "name": "swag-assignment",
+  "private": true,
+  "workspaces": [
+    "app",
+    "admin"
+  ],
+  "scripts": {
+    "app": "npm run start --workspace=swag-app",
+    "app:android": "npm run android --workspace=swag-app",
+    "app:ios": "npm run ios --workspace=swag-app",
+    "admin": "npm run dev --workspace=swag-push-admin",
+    "admin:build": "npm run build --workspace=swag-push-admin",
+    "install:all": "npm install"
+  }
+}

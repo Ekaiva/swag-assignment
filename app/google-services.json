@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337810019441",
+    "project_id": "swag-assignment",
+    "storage_bucket": "swag-assignment.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337810019441:android:a2da2a0f33dcc2ff1477d0",
+        "android_client_info": {
+          "package_name": "gg.swag.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8zvAtYdUTRpaPtfb6jFYa85URzsBIu0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/send-notification.ts": {
+      "includeFiles": "api/shared/**"
+    }
+  }
+}

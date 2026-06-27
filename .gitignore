@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment & secrets (never commit)
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+web-build/
+.expo/
+
+# Platform / tooling
+.vercel
+*.log
+.DS_Store
+ios/
+android/
